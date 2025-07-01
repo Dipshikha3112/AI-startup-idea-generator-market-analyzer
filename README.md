@@ -157,12 +157,8 @@ print(generator("Generate one EdTech idea", max_length=200))
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 📬 Contact
 
-For bugs, suggestions, or collaborations, please create a GitHub issue or reach out via the repository.
+For bugs, suggestions, or collaborations, please create a GitHub issue or reach out via the Linkedin.
+--Dipshikha
